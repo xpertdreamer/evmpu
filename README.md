@@ -1,5 +1,6 @@
 ## Table of contents
   - [Laboratory Work 1](lab1)
+  - [Laboratory Work 2](lab2)
   
 ## Notes
 
